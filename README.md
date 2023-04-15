@@ -2,4 +2,4 @@
 
 Веб-сайт показує мої можливості HTML і CSS.
  
-Переглянути вебсайт - https://airfence.netlify.app/
+Переглянути вебсайт - https://olegreact.github.io/HTML-CSS/
